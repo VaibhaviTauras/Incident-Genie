@@ -39,8 +39,3 @@
   $ cd test
   $ pytest
   ```
-
-**8. Run the docker dev server:**
-  ```
-  $ docker compose -f docker-compose_dev.yml up
-  ```
